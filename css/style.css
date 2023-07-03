@@ -53,8 +53,8 @@ section.main p{
     
 button{
     border-radius: 50%;
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
     font-size: 1.5em;
     background-color: var(--bg-color);
     
