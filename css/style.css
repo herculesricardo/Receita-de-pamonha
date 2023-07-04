@@ -72,14 +72,14 @@ section.content{
 
 }
 
-.ingredientes h1, .mododp h1{
+.ingredient-list h1, .mododp h1{
     margin-bottom: 32px;
     font-size: 2.7em;
     display: flex;
     align-items: center;
     gap: 10px
 }
-.ingredientes ul, .mododp ol{
+.ingredient-list ul, .mododp ol{
     list-style-position: inside;
     font-size: 1.5em;
     margin-left: 10px;
